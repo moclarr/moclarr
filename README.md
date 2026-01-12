@@ -6,7 +6,7 @@ Me chamo **Clara Moreira**, tenho **18 anos** e sou natural do **Ceará**. Concl
 Tenho grande interesse nas áreas de **suporte técnico, redes, desenvolvimento e programação**, buscando constantemente aprender novas ferramentas e aprimorar meus conhecimentos.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.instagram.com/claramrra_/">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -75,22 +75,3 @@ Tenho grande interesse nas áreas de **suporte técnico, redes, desenvolvimento 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>

@@ -6,13 +6,6 @@ Me chamo **Clara Moreira**, tenho **18 anos** e sou natural do **Ceará**. Concl
 Tenho grande interesse nas áreas de **suporte técnico, redes, desenvolvimento e programação**, buscando constantemente aprender novas ferramentas e aprimorar meus conhecimentos.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 

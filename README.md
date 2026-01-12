@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Clara Moreira
 
 **`Desenvolvedora FullStack Jr | Suporte Técnico`**
 
@@ -13,7 +13,7 @@ Tenho grande interesse nas áreas de suporte técnico, redes, desenvolvimento e 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
  
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/moclarr">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 

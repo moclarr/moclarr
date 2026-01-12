@@ -23,7 +23,7 @@ Tenho grande interesse nas áreas de **suporte técnico, redes, desenvolvimento 
     <a href="https://www.linkedin.com/in/clara-m-0aa281328/">
         <img 
             alt="Linkedin" 
-            title="Me siga no GitHub" 
+            title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>

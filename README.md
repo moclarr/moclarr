@@ -1,30 +1,24 @@
-# 👩🏻‍💻 Clara Moreira
+## 👩🏻‍💻 Clara Moreira
 
-**`Desenvolvedora FullStack Jr | Suporte Técnico`**
 
-"Me chamo Clara Moreira, tenho 18 anos e sou natural do Ceará. Concluí o ensino médio técnico em Redes de Computadores, onde tive contato com fundamentos de infraestrutura, suporte técnico e redes. Em breve, iniciarei a graduação em Ciência da Computação, dando continuidade à minha formação na área de tecnologia.
+Me chamo **Clara Moreira**, tenho **18 anos** e sou natural do **Ceará**. Concluí o ensino médio técnico em **Redes de Computadores**, onde tive contato com fundamentos de infraestrutura, suporte técnico e redes. Em breve, iniciarei a graduação em **Ciência da Computação**, dando continuidade à minha formação na área de tecnologia.
 
-Tenho grande interesse nas áreas de suporte técnico, redes, desenvolvimento e programação, buscando constantemente aprender novas ferramentas e aprimorar meus conhecimentos. Acredito que a tecnologia é uma poderosa ferramenta de transformação e estou sempre aberta a novos desafios e oportunidades de crescimento profissional."
+Tenho grande interesse nas áreas de **suporte técnico, redes, desenvolvimento e programação**, buscando constantemente aprender novas ferramentas e aprimorar meus conhecimentos.
 
 <p align="left">
-    
-    <a href="https://www.linkedin.com/in/clara-m-0aa281328/">
-        <img 
-            alt="Linkedin profile" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
- 
-    <a href="https://github.com/moclarr">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
+<!-- badges aqui -->
+
 </p>
 
----
+## 🤖 Linguagens e Tecnologias
+
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap  
+- Python  
+
 
 ### 🤖 Linguagens e Tecnologias
 

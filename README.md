@@ -20,9 +20,9 @@ Tenho grande interesse nas áreas de **suporte técnico, redes, desenvolvimento 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://www.linkedin.com/in/clara-m-0aa281328/">
         <img 
-            alt="Seguidores" 
+            alt="Linkedin" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />

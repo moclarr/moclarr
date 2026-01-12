@@ -24,19 +24,10 @@ Tenho grande interesse nas áreas de **suporte técnico, redes, desenvolvimento 
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
-
-## 🤖 Linguagens e Tecnologias
-
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap  
-- Python  
-
 
 ### 🤖 Linguagens e Tecnologias
 

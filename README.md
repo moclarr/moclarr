@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Clara Moreira
 
-Me chamo **Clara Moreira**, tenho **18 anos**, sou técnica em **Redes de Computadores** e moro em **Fortaleza**. Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento fullstack**.
+Me chamo **Clara Moreira**, tenho **18 anos**, sou técnica em **Redes de Computadores** e moro em **Fortaleza**. Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento Fullstack**.
 Possuo habilidades em **desenvolvimento web**, com foco em **back-end**, integração com **APIs**, além de conhecimentos em **infraestrutura de redes** e **segurança cibernética**.
 
 ## 📌 Interesses
@@ -11,8 +11,8 @@ Possuo habilidades em **desenvolvimento web**, com foco em **back-end**, integra
 
 ## 🧠 Conhecimentos
 - Lógica de programação  
-- Desenvolvimento web (front-end e back-end)  
-- Estrutura de aplicações com Django  
+- Desenvolvimento Web (Front-end e Back-end)  
+- Estrutura de aplicações com FrameWorks
 - Requisições HTTP (GET/POST)  
 - Versionamento de código com Git  
 - Noções de APIs e comunicação cliente-servidor
@@ -87,9 +87,9 @@ Possuo habilidades em **desenvolvimento web**, com foco em **back-end**, integra
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
-    width="35px" 
+    alt="C"
+    title="C" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
           

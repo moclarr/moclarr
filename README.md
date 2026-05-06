@@ -1,9 +1,21 @@
 ## 👩🏻‍💻 Clara Moreira
 
+Me chamo **Clara Moreira**, tenho **18 anos**, sou técnica em **Redes de Computadores** e moro em **Fortaleza**. Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento fullstack**.
+Possuo habilidades em **desenvolvimento web**, com foco em **back-end**, integração com **APIs**, além de conhecimentos em **infraestrutura de redes** e **segurança cibernética**.
 
-Me chamo **Clara Moreira**, tenho **18 anos** e sou natural do **Ceará**. Concluí o ensino médio técnico em **Redes de Computadores**, onde tive contato com fundamentos de infraestrutura, suporte técnico e redes. Atualmente curso Análise e Desenvolvimento de Sistemas, dando continuidade à minha formação na área de tecnologia.
+## 📌 Interesses
+- Desenvolvimento de software  
+- Projetos FullStack
+- Estrutura de sistemas  
+- Automação e tecnologia
 
-Tenho grande interesse nas áreas de **suporte técnico, redes, desenvolvimento e programação**, buscando constantemente aprender novas ferramentas e aprimorar meus conhecimentos.
+## 🧠 Conhecimentos
+- Lógica de programação  
+- Desenvolvimento web (front-end e back-end)  
+- Estrutura de aplicações com Django  
+- Requisições HTTP (GET/POST)  
+- Versionamento de código com Git  
+- Noções de APIs e comunicação cliente-servidor
 
 <p align="left">
     <a href="https://www.instagram.com/claramrra_/">

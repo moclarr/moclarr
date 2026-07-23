@@ -9,14 +9,6 @@ Possuo habilidades em **desenvolvimento web**, com foco em **back-end**, integra
 - Estrutura de sistemas  
 - Automação e tecnologia
 
-## 🧠 Conhecimentos
-- Lógica de programação  
-- Desenvolvimento Web (Front-end e Back-end)  
-- Estrutura de aplicações com FrameWorks
-- Requisições HTTP (GET/POST)  
-- Versionamento de código com Git  
-- Noções de APIs e comunicação cliente-servidor
-
 <p align="left">
     <a href="https://www.instagram.com/claramrra_/">
         <img 
